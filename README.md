@@ -16,8 +16,6 @@
 ## Contributors
 
 [Jiayi Dong](https://www.linkedin.com/in/jiayi-dong-6a2a6b26b/) <sup>1*</sup>
-[Daniel Schwalbe-Koda](https://scholar.google.com/citations?user=yXXLlWAAAAAJ&hl=th) <sup>1</sup>
-[Yang Yang](https://scholar.google.com/citations?user=ceCfTvcAAAAJ&hl=en) <sup>1</sup>
 
 <sup>1</sup> University of California, Los Angeles   
 
